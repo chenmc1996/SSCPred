@@ -8,7 +8,7 @@ There has been a significant improvement in protein residue contact prediction i
 
     python3 SSCPred.py --seq your_sequence --i1c the_directory_of_SPIDER3_features
 
-Using the official SPIDER3 code from [SPIDER3's offical Repository](https://github.com/zyxue/SPIDER3) to extract feature from single sequence. 
+Using the official SPIDER3 code from [SPIDER3's offical Repository](https://github.com/zyxue/SPIDER3) to extract "i1c" feature from single sequence. 
 
 Note that this repository only includes the code and trained parameters for inference.
 
